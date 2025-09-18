@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ComicX - Free Manga Reading</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>ComicX</h1>
+    <nav>
+        <a href="index.html">Home</a>
+    </nav>
+</header>
+
+<main>
+    <h2>All Manga</h2>
+    <div class="manga-list">
+        <div class="manga-item">
+            <a href="manga/manga1/chapter1.html">
+                <img src="images/manga1-cover.jpg" alt="Manga 1 Cover">
+                <h3>Manga 1</h3>
+            </a>
+        </div>
+        <div class="manga-item">
+            <a href="manga/manga2/chapter1.html">
+                <img src="images/manga2-cover.jpg" alt="Manga 2 Cover">
+                <h3>Manga 2</h3>
+            </a>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <p>© 2025 ComicX</p>
+</footer>
+</body>
+</html>
